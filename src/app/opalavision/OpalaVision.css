@@ -1,0 +1,42 @@
+.main {
+    display: flex;
+    gap: 3rem;
+    padding: 3rem;
+    align-items: center;
+  }
+  
+  .container_text {
+    color: white;
+    font-size: 32px;
+    width: 20%;
+    font-weight: 700;
+  }
+  
+  @media (max-width: 1024px) {
+    .container_text {
+      font-size: 28px;
+      width: 70%;
+    }
+  
+    .main {
+      margin: 10rem 5rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .main {
+      flex-direction: column;
+      gap: 2rem;
+      padding: 2rem;
+    }
+  
+    .container_text {
+      font-size: 24px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .container_text {
+      font-size: 20px;
+    }
+  }  
