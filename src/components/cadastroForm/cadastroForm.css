@@ -1,0 +1,53 @@
+.cadastroForm {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.input-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+}
+
+.cadastroForm .input-group {
+  flex: 1;
+  padding: 1rem;
+}
+
+.cadastroForm input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #333;
+  border-radius: 5px;
+  background-color: #2c2c2c;
+  color: #ffffff;
+  font-size: 16px;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+.cadastroForm input::placeholder {
+  color: #888;
+}
+
+.cadastroForm input:focus {
+  border-color: #4caf50;
+}
+
+.cadastroForm button {
+  width: 100%;
+  padding: 12px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+  transition: background-color 0.3s;
+}
+
+.cadastroForm button:hover {
+  background-color: #348a37;
+}
