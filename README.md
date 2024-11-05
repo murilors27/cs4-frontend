@@ -28,6 +28,10 @@ Apresente o sistema, seu propósito e principais funcionalidades.
 4. [Rodar o projeto](#npm run dev)
 5. [Acessar a localhost](#http://localhost:5173/)
 
+## Instalação
+
+Link para o projeto no Vercel: https://cs4-frontend.vercel.app/
+
 ## Nossa equipe
 
 **Murilo Ribeiro** - [GitHub](https://github.com/murilors27)
