@@ -32,6 +32,9 @@ Apresente o sistema, seu propósito e principais funcionalidades.
 
 Link para o projeto no Vercel: https://cs4-frontend.vercel.app/
 
+## Youtube
+Link para o vídeo no Youtube: https://youtu.be/WSrDtyzuUIE
+
 ## Nossa equipe
 
 **Murilo Ribeiro** - [GitHub](https://github.com/murilors27)
